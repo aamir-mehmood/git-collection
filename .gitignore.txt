@@ -2,6 +2,6 @@
 
 ## ignore all .git folder within folders
 
-/.git/**
-**/.git
+/*/.git/**
+**/.git/**
  
